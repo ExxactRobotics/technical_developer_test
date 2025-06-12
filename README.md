@@ -17,6 +17,8 @@ Here is the information that is most relevant for the user:
 
 ## Instructions
 
+Follow only one of these instructions regarding the the position you are applying for
+
 - [Fullstack test instructions](./instructions/fullstack.md)
 - [Frontend test instructions](./instructions/frontend.md)
 - [Backend test instructions](./instructions/backend.md)
