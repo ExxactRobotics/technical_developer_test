@@ -25,6 +25,8 @@ Follow only one of these instructions regarding the position you are applying fo
 
 ## Modalities
 
+Don't pass more than 4 hours on this test. Do as much as possible within the given time. If you are unable to finish, specify what blocked you and what remains to be done.
+
 Create a private repository on GitHub to store your source code, invite HugoB-EXR and StuartEXR as collaborators, and send us the link by email once you've finished.  
 Please provide a README with instructions to run your project.
 
